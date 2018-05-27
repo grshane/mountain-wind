@@ -1,0 +1,14 @@
+uuid: 0f663fd9-4053-489a-8a4e-a082259dd139
+name: mountain-wind
+mail: grshane@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
